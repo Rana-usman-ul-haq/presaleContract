@@ -467,7 +467,7 @@ contract Presale is Ownable {
     uint256 private claimableTokens;
 
     // Address where funds are collected
-    address public wallet = payable(0x2169F8Ab178959cB7C81608d68044548B5732454);
+    address public wallet = payable(0x31b5B830a8B02D79b1933ce7aBDe74230BA3908e);
 
     // How many token units a buyer gets per BNB & USDT
     uint256 private bnbRate = 10000;
